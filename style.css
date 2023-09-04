@@ -1,0 +1,49 @@
+body {
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(192, 199, 125);
+}
+
+#scoreMainContainer {
+    width: 65%;
+    margin: auto;
+}
+
+.scoreBoard {
+    height: 15vh;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(15, 119, 114);
+}
+
+.form{
+    margin-top: 1.5rem;
+}
+
+input {
+    padding: 0.8rem;
+    border: 2px solid rgb(15, 119, 114);
+    outline: none;
+    border-radius: 2px;
+}
+
+.scoreBoard p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+button {
+    padding: 0.7rem 2rem;
+    border: none;
+    font-size: 1rem;
+    background-color: seagreen;
+}
+
+.main_time-stamp{
+    color: grey;
+    font-size: 1rem !important;
+}
