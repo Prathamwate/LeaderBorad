@@ -9,4 +9,4 @@ This is a simple web application for tracking scores of players in a game or com
 - Increase or decrease a player's score using buttons.
 
 Hosted Link
-https://ameya-shinde.github.io/LeaderBoard/
+https://prathamwate.github.io/LeaderBorad/
